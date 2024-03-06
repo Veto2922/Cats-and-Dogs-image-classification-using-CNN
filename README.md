@@ -1,9 +1,14 @@
-#Image Classification with CNN and Transfer learning
+# Image Classification with CNN and Transfer learning
 
 
 ## Overview
 
-This Jupyter Notebook (`CNN_CODE.ipynb`) demonstrates the implementation of a Convolutional Neural Network (CNN) for image classification using TensorFlow and Keras. The dataset consists of cat and dog images, and the goal is to train a model to distinguish between the two.
+implementation of a Convolutional Neural Network (CNN) for image classification using TensorFlow and Keras. The dataset consists of cat and dog images, and the goal is to train a model to distinguish between the two.
+
+Transfer learning with the VGG16 model is demonstrated as an advanced technique, showcasing how pre-trained models can be leveraged for image classification tasks, potentially improving model performance and reducing training time.
+
+The notebook also provides insights into the interpretation of model decisions, allowing users to understand how the trained CNN makes predictions based on the learned features from the images. 
+
 
 ### Dataset
 
