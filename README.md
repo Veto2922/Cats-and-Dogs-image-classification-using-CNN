@@ -9,6 +9,9 @@ Transfer learning with the VGG16 model is demonstrated as an advanced technique,
 
 The notebook also provides insights into the interpretation of model decisions, allowing users to understand how the trained CNN makes predictions based on the learned features from the images. 
 
+![image](https://github.com/Veto2922/Cats-and-Dogs-image-classification-using-CNN/assets/114834171/f4425f43-5b24-4ed3-a65f-d6a1431b454b)
+
+
 
 ### Dataset
 
